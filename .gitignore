@@ -1,0 +1,4 @@
+# Carpeta de datos si tenés una
+/data/
+/chromedriver-win64/
+.env
