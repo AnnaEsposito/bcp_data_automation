@@ -25,15 +25,10 @@ Automatizar el proceso de:
 - Requests
 - SQLAlchemy / psycopg2
 - PostgreSQL
-- Power BI (para visualización)
 
 ## 📊 Cuadros de indicadores seleccionados
 
-- Producto Interno Bruto (PIB)
-- Inflación
-- Tipo de cambio
-- Comercio exterior
-- Tasas de interés
+- Producto Interno Bruto (PIB). Cuadro 6 - Anexo Informe Estadistico
 
 ## 🚀 Estado actual
 
