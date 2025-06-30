@@ -28,7 +28,7 @@ Automatizar el proceso de:
 
 ## 📊 Cuadros de indicadores seleccionados
 
-- Producto Interno Bruto (PIB). Cuadro 6 - Anexo Informe Estadistico
+- Producto Interno Bruto (PIB). Cuadro 6 y 7 - Anexo Informe Estadistico
 
 ## 🚀 Estado actual
 
